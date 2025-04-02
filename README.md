@@ -1,5 +1,4 @@
 # Retail Store Analysis Project
-
 ##  Project Overview
 This project analyzes retail store performance using SQL, R, and Power BI. It provides insights into sales, customer behavior, and store efficiency using various data analysis techniques.
 
